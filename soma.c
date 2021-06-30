@@ -1,3 +1,9 @@
+/*
+Exemplo de código para aulas demonstrar as funcionalidades básicas do GIT
+30/06/2021
+*/
+
+
 #include <stdio.h>
 
 int soma(int a, int b, int c) {
