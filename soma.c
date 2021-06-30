@@ -6,6 +6,8 @@ int soma(int a, int b) {
 
 int main() {
   int a, b;
+  
+  printf("Digite os valores para soma: \n");
 
   scanf("%d", &a);
   scanf("%d", &b);
