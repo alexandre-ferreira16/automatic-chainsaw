@@ -7,7 +7,7 @@ int soma(int a, int b, int c) {
 int main() {
   int a, b, c;
   
-  printf("Por favor, digite os valores para soma: \n");
+  printf("Por favor, digite três valores para soma: \n");
 
   scanf("%d", &a);
   scanf("%d", &b);
